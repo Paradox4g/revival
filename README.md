@@ -23,16 +23,16 @@ Two phase, alternating fight, w/ |cffff00ffintermission|r during |cffff00ffP1|r.
 
 |cffff00ffPhase 1|r: 
 |cffff9933RUN OUT|r with |cff00ffffIncineration|r.
-|cffff9933RUN AWAY|r from |cyellowboss|r on |cff00ffffGale Blast|r.
+|cffff9933RUN AWAY|r from |cFFFFFF33 Wrathion|r on |cff00ffffGale Blast|r.
 |cffffff00Tanks|r: |cffff9933FACE|r boss away for breath. Swap on |cff00ff002-3|r stacks.
 
 |cffff00ffBurning Cataclysm|r:
-|cffff9933RUN|r to |cFFFFFF33opposite side of room|r from  |cFFFFFF33 Wrathion|r.
+|cffff9933RUN|r to |cFFFFFF33opposite side of room|r from|cFFFFFF33 Wrathion|r.
 |cffff9933STAND|r in open area with no fire pools.
 
 |cffff00ffPhase 2|r (after 2 Burning Cataclysms):
 |cff00ff003|r raiders |cffff9933SOAK|r circles. |cffff9933RUN THROUGH|r shards to destroy.
-|cyellowEveryone else|r: |cffff9933KILL|r shards and |cFFFFFF33Assassin adds|r.
+|cFFFFFF33Everyone else|r: |cffff9933KILL|r shards and |cFFFFFF33Assassin adds|r.
 ```
 
 ## Maut
