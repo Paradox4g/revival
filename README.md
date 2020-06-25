@@ -271,6 +271,37 @@ After slam, |cffff9933KILL|r |cFFFFFF33Horrific Hemorrhage|r adds on tentacle.
 
 ## N'zoth
 [Fatboss video 10:01](https://youtu.be/Aa77U5OQ04M?list=PLu3dsh6Bc2HVveourJUXSoxUmwpg8IBgr)
-```
-TBD
-```
+|cff00ffffN'Zoth Mythic|r
+
+MindRealm #1
+|cff00fe95Oranges|r, |cfff38bb9Drek|r, |cff006fdcFaeyt|r, #1|cffa22fc8Deekt|r, #2|cff8686ecSugar|r, #3|cff3ec5e9Igma|r, #4|cfffe7b09Elda|r, #5|cffc31d39Natsu|r,#6 |cffa9d271Can|r
+
+MindRealm #2
+|cffc31d39Lee|r, |cfff38bb9Rev|r, |cfffefefeParadox|r, #1|cfffef367Kyo|r, #2|cffc59a6cAllyganker|r, #3|cff3ec5e9Cold|r, #4|cfffe7b09Ilind|r, #5 |cff006fdcBlankey|r, #6 |cff8686ecDárne|r 
+
+Neck Stun #1 |cff006fdcFaeyt|r
+Neck Stun #2 |cfff38bb9Rev|r, |cfff38bb9Drek|r, |cfffefefeParadox|r 
+Neck Add #1 |cfff38bb9Layliah|r  
+Neck Add #2 |cffc31d39Lee|r, |cff00fe95Oranges|r
+Neck Secret   |cffa22fc8Deekt|r, |cfffe7b09Eldaruid|r 
+
+Harvest #3 = First Immune 
+(Spread 5 yr paranoia during soak)
+|cfff38bb9Rev|r, |cfff38bb9Drek|r, |cffa9d271Can|r, |cfffef367Kyo|r, |cff3ec5e9Canadiancold|r 
+
+2nd Harvest after Secret phase = Second Immune
+|cfff38bb9Rev|r, |cfff38bb9Drek|r, |cffa9d271Can|r, |cfffef367Kyo|r, |cff3ec5e9Enìgmaniac|r 
+
+Then Secret Phase {square} (click gate 8:55)
+Bomb #1
+Close |cffc31d39Natsu|r
+Mid |cffa9d271Floppyarrow|r 
+
+Bomb#2 
+|cff8686ecSugar|r, |cfffef367Kyo|r, |cff8686ecDárne|r 
+
+Bomb#3
+|cff3ec5e9Igma|r, |cff3ec5e9Cold|r, |cfffe7b09Ilind|r
+
+Bomb#4
+|cff006fdcBlankey|r, |cfffefefeSorakamid|r, |cffc59a6cAllyganker|r 
