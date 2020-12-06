@@ -1,0 +1,15 @@
+# Castle Nathria Heroic ERT Notes
+
+# Shriekwing
+Two phase fight. Fight boss, then play hide&seek during |cffff00ffP2|r.
+
+|cffff00ffPhase 1|r:  
+|cffff9933HIDE|r behind |cffF8FF64pillar|r during |cff00ffffEarsplitting Shriek|r.
+|cffff9933RUN OUT|r with |cff00ffffEcholocation|r.
+{tank}|cffF8FF64Tanks:|r  |cffff9933FACE|r |cffF8FF64boss|r away (|cff00ffffBlind Swipe|r)
+{tank} |cffF8FF64TANK SWAP|r on |cff00ffffExanguinating Bite|r.
+
+|cffff00ffPhase 2|r:
+|cffff9933RUN AWAY|r as a group from |cffF8FF64boss|r around the room. 
+|cffff9933DODGE|r |cff00ffffSonar Disks|r. |cffE30101STAY OUT OF LOS|r to avoid |cff00ffffEarsplitting Shriek|r.
+|cffff9933STAY AWAY|r from |cffF8FF64boss|r or be instantly killed.
