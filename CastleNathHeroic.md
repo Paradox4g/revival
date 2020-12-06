@@ -47,3 +47,23 @@ On |cff00ffffShades of Barghast|r, |cffff9933USE CCs|r to lock down. |cffff9933K
 |cffff00ffPhase 3 (Hecutis Phase)|r: 
 |cffff9933RUN OUT|r if afflicted by  |cff00ffffPetrifying Howl|r.
 {tank}|cffF8FF64Tanks:|r  |cffff9933MOVE|r |cffF8FF64Hecutis|r to remove |cff00ffffCrushing Stone|r stacks.
+
+# Huntsman Altimor
+Three phase fight, with 3 unique pets of Huntsman to deal with.
+
+|cffff00ffWhole Fight|r: 
+|cffff9933RUN OUT|r and spread with |cff00ffffSinseeker|r.
+|cffff9933LOOSE SPREAD|r to lower damage from |cff00ffffSpreadshot|r.
+
+|cffff00ffPhase 1 (Margore Phase)|r: 
+|cffff9933GROUP SOAK|r  |cff00ffffVicious Lunge|r.
+{tank}|cffF8FF64Tanks:|r  |cffff9933SWAP ON|r |cff00ff003-4|r stacks of |cff00ffffJagged Claws|r.
+
+|cffff00ffPhase 2 (Barghast Phase)|r: 
+On |cff00ffffShades of Barghast|r, |cffff9933USE CCs|r to lock down. |cffff9933KILL|r |cffF8FF64Shades|r ~|cff00ff0020|r stacks.
+{tank}|cffF8FF64Tanks:|r |cffff9933SEPARATE|r |cffF8FF64Barghast|r from |cffF8FF64boss|r. |cffff9933DEFENSIVE CD|r on |cff00ffffRip Soul|r.
+{healer}|cffF8FF64Healers:|r |cffff9933HEAL UP|r |cffF8FF64Rip Soul add|r before it reaches |cffF8FF64boss|r.
+
+|cffff00ffPhase 3 (Hecutis Phase)|r: 
+|cffff9933RUN OUT|r if afflicted by  |cff00ffffPetrifying Howl|r.
+{tank}|cffF8FF64Tanks:|r  |cffff9933MOVE|r |cffF8FF64Hecutis|r to remove |cff00ffffCrushing Stone|r stacks.
