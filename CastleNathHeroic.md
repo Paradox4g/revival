@@ -1,5 +1,19 @@
 # Castle Nathria Heroic ERT Notes
 
+Color coding:
+
+![PURPLE](https://placehold.it/15/660066/000000?text=+) Purple: Represents phases, intermissions, specific timings, or adds on multi-boss fights.
+
+![BLUE](https://placehold.it/15/0000ff/000000?text=+) Blue: Ability names.
+
+![ORANGE](https://placehold.it/15/cc3300/000000?text=+) Orange: Represents player actions that must be taken.
+
+![GREEN](https://placehold.it/15/003300/000000?text=+) Green: Represents numeric values like time, stacks, distance, or what have you.
+
+![YELLOW](https://placehold.it/15/ffff00/000000?text=+) Yellow: Represents a person, group, target, or specific location in the encounter space.
+
+![RED](https://placehold.it/15/ff0000/000000?text=+)  Red: Used at my discretion, but basically "DO THIS OR GET BONED" mechanics.
+
 # Shriekwing
 Two phase fight. Fight boss, then play hide&seek during |cffff00ffP2|r.
 
